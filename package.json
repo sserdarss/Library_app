@@ -1,0 +1,18 @@
+{
+  "name": "quizapp-14.35.42",
+  "version": "1.0.0",
+  "type": "module", 
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.21"
+  }
+}
